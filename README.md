@@ -1,4 +1,6 @@
 # Sumo Control
+**Update:** I'm having to work on a different project for my master's so this will be indefinitely suspended. I hope to return to it in future.
+
 My plan is to train a Jumping Sumo minidrone from Parrot to navigate a track using reinforcement learning. This project will be divided into several stages:
 
 - [x] Implement the ARSDK3 protocol in python to allow me control the drone directly via a PC and stream video as well
